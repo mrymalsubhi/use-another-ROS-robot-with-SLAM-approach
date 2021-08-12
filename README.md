@@ -40,7 +40,7 @@ source ~/catkin_ws/devel/setup.bash
 
 ---
 
-- here is some pictures of how it work with me: 
+- here is some pictures of how it worked with me: 
 
 ---
 
