@@ -15,7 +15,7 @@
 
 - 2nd: run this code in the terminal:
 
-``
+```
 cd ~/catkin_ws/src
 
 git clone https://github.com/mrymalsubhi/warehouse_simulation_toolkit
@@ -25,7 +25,7 @@ cd ..
 catkin_make
 
 source ~/catkin_ws/devel/setup.bash
-``
+```
 
 ---
 
