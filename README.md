@@ -31,11 +31,12 @@ source ~/catkin_ws/devel/setup.bash
 
 ---
 
-- here is some pictures of how it work with me: 
+![IMG_6999](https://user-images.githubusercontent.com/85639068/129168796-6e4647b0-f3be-4064-8438-2377083772db.jpg)
+
 
 ---
 
-![IMG_6999](https://user-images.githubusercontent.com/85639068/129168286-b4deed93-d65c-4729-8bf9-44eabca74e62.jpg)
+- here is some pictures of how it work with me: 
 
 ---
 
