@@ -51,3 +51,13 @@ source ~/catkin_ws/devel/setup.bash
 ![IMG_7001](https://user-images.githubusercontent.com/85639068/129168342-8a2d4711-f1de-4ef4-b35e-76e2db278a06.jpg)
 
 ---
+
+- and finally to save the map, run this code: 
+
+`rosrun map_server map_saver -f ~/map`
+
+---
+
+
+
+---
